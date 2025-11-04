@@ -45,7 +45,7 @@ root ("mirai")
 **Example:**
 
 ```
-"mirai lights on two"
+"mirai lights two on"
 ```
 
 This turns on the second light.
